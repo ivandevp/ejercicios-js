@@ -46,3 +46,23 @@ Un número entero positivo.
 [salida] integer
 
 La suma del primer y segundo dígito de un número ingresado.
+
+### Mayor número posible
+
+Dado un número *n*, retornar el mayor número posible que contiene exactamente *n dígitos*.
+
+**Ejemplo**
+
+Para ```n = 2```, la salida sería ```mayorNumeroPosible(n) = 99``.
+
+**Entrada/Salida**
+
+[input] integer n
+
+[output] integer
+
+El mayor número de longitud ```n``.
+
+*Consideraciones:*
+
+1 ≤ n ≤ 7.
