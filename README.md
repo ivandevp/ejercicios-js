@@ -10,7 +10,7 @@ Dado un número de 2 dígitos *(num)*. Retornar la suma de sus dígitos.
 
 - Ejemplo
 
-Para ```num = 29```, la salida de la función ```sumaDosDigitos(n) = 11```.
+Para ```num = 29```, la salida de la función ```sumaDosDigitos(num) = 11```.
 
 - Input/Output
 
